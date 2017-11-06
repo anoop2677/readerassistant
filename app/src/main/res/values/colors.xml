@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <!-- Inside colors.xml -->
+
+    <color name="action_bar_color">#0277bd</color>
+    <color name="action_bar_text_color">#fafafa</color>
+    <color name="drawer_background">#fafafa</color>
+    <color name="drawer_selected">#ff9100</color>
+
+    <color name="backgroundChat">#C3D0D7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="chat_reader_background">#33000000</color>
+    <color name="chat_blue">#c5d640de</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#FF27AE60</color>
+</resources>
